@@ -1,15 +1,11 @@
 
 # 👋 Hello
-I'm Shane Hall, I create websites and software applications and usually am a product manager or director. 
-- @AOL, 
-- @MySpace, @Userplane, @Zynga, @The_Hunt, @Change.org
-I use LibkedIn fot networking, lets connect: 
+I'm Shane Hall, I create websites and software applications. I've worked at startups like Userplane and The Hunt as well as larger companies like AOL, Myspace and Zynga. 
 
-Previously, I scaled Product and Design teams at The Hunt, culminating in its acquisition by Pinterest, and led the relaunch of Zynga.com, growing to >1M DAU in 3 months.
+Lately I have been working a lot with open source language models (in particular small language models) for local agents / server-less deployments.
 
 Way back, I studied [Physics](https://doi.org/10.1119/1.4932549) at Cal Poly Pomona. 
 
-I’ve stayed driven by an innate curiosity, a passion for building products that make a difference, and working closely with talented folks to solve big problems.
 
 ## Let's Connect
 
