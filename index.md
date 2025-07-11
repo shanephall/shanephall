@@ -5,7 +5,7 @@ title: Shane Hall
 
 # 👋 Hi, I’m Shane Hall
 
-I build software products, from early-stage startups to scaled platforms. Most recently, I’ve been exploring AI-native applications and local LLMs.
+I build software products, from early startups like Userplane to growth-stage companies like Zynga. Currently I'm helping SMBs deploy current LLM/MCP tech to accelerate their business.
 
 🚀 Interested in product, AI, or something cool? Let’s connect.
 
