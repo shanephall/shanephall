@@ -1,13 +1,17 @@
+# Shane Hall
+
+**Product Leader & AI/ML Strategist**
+
+Building products that scale. Led AI transformation at platforms serving 500M+ users. 5 patents in messaging and engagement systems.
+
+I architect solutions at the intersection of user needs and technical possibility—from hybrid recommender systems to multi-armed bandit optimization. Currently exploring how traditional businesses can leverage AI for competitive advantage.
+
+**Focus Areas:** LLM/NLP applications, recommender systems, growth optimization, product analytics, MCP development & integration
+
+**Currently Building:** Real-time adaptive audio systems for endurance athletes • AI-powered family health information management
+
 ---
-layout: default
-title: Shane Hall
----
 
-# 👋 Hi, I’m Shane Hall
-
-I build software products, from early startups like [Userplane](https://web.archive.org/web/20080531021035/http://www.userplane.com/index.cfm) to growth-stage companies like [Zynga](Zynga.com). Currently I'm helping SMBs deploy current LLM/MCP tech to accelerate their business.
-
-🚀 Interested in product, AI, or something cool? Let’s connect.
-
-👉 LinkedIn: [@shanephall](https://www.linkedin.com/in/shanephall)
-👉 GitHub: [@shanephall](https://github.com/shanephall)
+📍 Portland, OR  
+📧 shane@fasttransients.ai  
+💼 [LinkedIn](https://linkedin.com/in/shanephall)
