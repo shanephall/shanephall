@@ -1,3 +1,10 @@
+<!--
+---
+title: "Shane Hall"
+layout: default
+---
+-->
+
 # Shane Hall
 
 **Product Leader & AI/ML Strategist**
