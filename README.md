@@ -1,9 +1,8 @@
-<!--
 ---
 title: "Shane Hall"
 layout: default
 ---
--->
+
 
 # Shane Hall
 
