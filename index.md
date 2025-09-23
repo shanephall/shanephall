@@ -7,13 +7,11 @@ title: Shane Hall
 
 **Product Leader & AI/ML Strategist**
 
-Building products that scale. Led AI transformation at platforms serving 500M+ users. 5 patents in messaging and engagement systems.
+I transform traditional businesses and consumer platforms through AI-driven product strategy. Led product divisions at Change.org serving hundreds of millions globally, architected recommender systems that solved critical user pain points, and redesigned business models that unlocked significant revenue growth.
 
-I architect solutions at the intersection of user needs and technical possibility—from hybrid recommender systems to multi-armed bandit optimization. Currently exploring how traditional businesses can leverage AI for competitive advantage.
+Previously scaled two startups to successful acquisitions (AOL, Pinterest) and built product teams across the world's largest social and gaming platforms. I specialize in turning complex technical capabilities into products users actually want.
 
-**Focus Areas:** LLM/NLP applications, recommender systems, growth optimization, product analytics, MCP development & integration
-
-**Currently Building:** Real-time adaptive audio systems for endurance athletes • AI-powered family health information management
+Currently helping traditional businesses accelerate through AI/ML and data-driven growth strategies.
 
 ---
 
