@@ -1,9 +1,3 @@
----
-title: "Shane Hall"
-layout: default
----
-
-
 # Shane Hall
 
 **Product Leader & AI/ML Strategist**
@@ -14,8 +8,4 @@ Previously scaled two startups to successful acquisitions (AOL, Pinterest) and b
 
 Currently helping traditional businesses accelerate through AI/ML and data-driven growth strategies.
 
----
-
-📍 Portland, OR
-📧 shane@shanephall.com
-💼 [LinkedIn](https://linkedin.com/in/shanephall)
+Portland, OR • shane@shanephall.com • [LinkedIn](https://linkedin.com/in/shanephall)
