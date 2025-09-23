@@ -1,5 +1,3 @@
-# Shane Hall
-
 **Product Leader & AI/ML Strategist**
 
 I transform traditional businesses and consumer platforms through AI-driven product strategy. Led product divisions at Change.org serving hundreds of millions globally, architected recommender systems that solved critical user pain points, and redesigned business models that unlocked significant revenue growth.
