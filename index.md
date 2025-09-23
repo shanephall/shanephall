@@ -15,6 +15,6 @@ Currently helping traditional businesses accelerate through AI/ML and data-drive
 
 ---
 
-📍 Portland, OR
-📧 shane@shanephall.com
-💼 [LinkedIn](https://linkedin.com/in/shanephall)
+shane@shanephall.com
+
+[linkedin.com/in/shanephall](https://www.linkedin.com/in/shanephall)
