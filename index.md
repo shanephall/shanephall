@@ -5,5 +5,3 @@ I transform traditional businesses and consumer platforms through AI-driven prod
 Previously scaled two startups to successful acquisitions (AOL, Pinterest) and built product teams across the world's largest social and gaming platforms. I specialize in turning complex technical capabilities into products users actually want.
 
 Currently helping traditional businesses accelerate through AI/ML and data-driven growth strategies.
-
-Portland, OR • shane@shanephall.com • [LinkedIn](https://linkedin.com/in/shanephall)
