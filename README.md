@@ -19,5 +19,5 @@ I architect solutions at the intersection of user needs and technical possibilit
 ---
 
 📍 Portland, OR  
-📧 shane@fasttransients.ai  
+📧 shane@shanephall.com  
 💼 [LinkedIn](https://linkedin.com/in/shanephall)
