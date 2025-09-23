@@ -3,11 +3,33 @@ layout: default
 title: Shane Hall
 ---
 
-# 👋 Hi, I’m Shane Hall
+# Shane Hall
 
-I build software products, from early startups like Userplane to growth-stage companies like Zynga. Currently I'm helping SMBs deploy current LLM/MCP tech to accelerate their business.
+**Product Leader & AI/ML Strategist**
 
-🚀 Interested in product, AI, or something cool? Let’s connect.
+I transform traditional businesses and consumer platforms through AI-driven product strategies and innovation. Led AI transformation at platforms serving 500M+ users with 5 patents in messaging and engagement systems.
 
-👉 LinkedIn: [@shanephall](https://www.linkedin.com/in/shanephall)
-👉 GitHub: [@shanephall](https://github.com/shanephall)
+I architect solutions at the intersection of user needs and technical possibility—from hybrid recommender systems to multi-armed bandit optimization. Currently exploring how traditional businesses can leverage AI for competitive advantage.
+
+## Current Focus
+- **LLM/NLP applications** and MCP development & integration
+- **Recommender systems** and growth optimization
+- **Product analytics** and user engagement strategies
+- **Real-time adaptive systems** for specialized applications
+
+## Recent Impact
+- Increased email conversion rates from 4% to 10%
+- Improved website conversion rates from 10% to 40%
+- Developed AI-driven dashboards with minimal engineering resources
+- Successfully rolled out products that significantly increased user engagement
+
+## Currently Building
+- Real-time adaptive audio systems for endurance athletes
+- AI-powered family health information management systems
+- MCP integrations for business acceleration
+
+---
+
+**📍 Portland, OR** • **📧 shane@shanephall.com**
+
+**Connect:** [LinkedIn](https://linkedin.com/in/shanephall) • [GitHub](https://github.com/shanephall)
